@@ -93,4 +93,4 @@ Contribuições para o projeto são bem-vindas. Para contribuir, por favor, crie
 
 ### Contexto do Projeto
 
-Este projeto está sendo desenvolvido como parte da monografia intitulada OP-0023('Identificação de medicamentos usando visão computacional'), conduzida sob o programa de Residência em Robótica e Inteligência Artificial. O objetivo é implementar e validar um sistema automatizado de visão computacional capaz de identificar e verificar medicamentos oncológicos durante a dispensação, utilizando algoritmos avançados em Python com bibliotecas como OpenCV, stag para detecção de marcadores, e rembg para remoção de fundo de imagens.
+Este projeto está sendo desenvolvido como parte da monografia intitulada OP-0023('Identificação de medicamentos usando visão computacional'), conduzida sob o programa de Residência em Robótica e Inteligência Artificial. O objetivo é implementar e validar um sistema automatizado de visão computacional integrado ao braço robótico Kinova para manipulação automatizada e precisa de medicamentos, aumentando a segurança e eficiência do processo de dispensação de medicamentos oncológicos, utilizando algoritmos em Python.
